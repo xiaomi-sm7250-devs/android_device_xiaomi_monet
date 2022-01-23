@@ -1,5 +1,5 @@
 # Display
-PRODUCT_PROPERTY_OVERRIDES += \
+PRODUCT_VENDOR_PROPERTIES += \
 ro.surface_flinger.has_HDR_display=true \
 ro.surface_flinger.has_wide_color_display=true \
 ro.surface_flinger.use_color_management=true \
