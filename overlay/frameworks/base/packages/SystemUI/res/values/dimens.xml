@@ -21,9 +21,12 @@
 
     <!-- Margin on the left side of the carrier text on Keyguard -->
     <dimen name="keyguard_carrier_text_margin">40dp</dimen>
+    
+    <!-- the padding on the start of the statusbar -->
+    <dimen name="status_bar_padding_start">15dp</dimen>
 
-    <!-- More realistic padding -->
-    <dimen name="rounded_corner_content_padding">30dp</dimen>
+    <!-- the padding on the end of the statusbar -->
+    <dimen name="status_bar_padding_end">15dp</dimen>
 
     <!-- Location on the screen of the center of the physical power button. -->
     <dimen name="physical_power_button_center_screen_location_y">1000px</dimen>
